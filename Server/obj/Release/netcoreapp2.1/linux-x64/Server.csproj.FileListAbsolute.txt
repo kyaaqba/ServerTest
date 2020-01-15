@@ -1,0 +1,14 @@
+C:\Users\v-kayaaq\source\repos\Server\Server\bin\Release\netcoreapp2.1\linux-x64\libhostpolicy.so
+C:\Users\v-kayaaq\source\repos\Server\Server\bin\Release\netcoreapp2.1\linux-x64\libhostfxr.so
+C:\Users\v-kayaaq\source\repos\Server\Server\bin\Release\netcoreapp2.1\linux-x64\Server
+C:\Users\v-kayaaq\source\repos\Server\Server\bin\Release\netcoreapp2.1\linux-x64\Server.deps.json
+C:\Users\v-kayaaq\source\repos\Server\Server\bin\Release\netcoreapp2.1\linux-x64\Server.runtimeconfig.json
+C:\Users\v-kayaaq\source\repos\Server\Server\bin\Release\netcoreapp2.1\linux-x64\Server.runtimeconfig.dev.json
+C:\Users\v-kayaaq\source\repos\Server\Server\bin\Release\netcoreapp2.1\linux-x64\Server.dll
+C:\Users\v-kayaaq\source\repos\Server\Server\bin\Release\netcoreapp2.1\linux-x64\Server.pdb
+C:\Users\v-kayaaq\source\repos\Server\Server\obj\Release\netcoreapp2.1\linux-x64\Server.csprojAssemblyReference.cache
+C:\Users\v-kayaaq\source\repos\Server\Server\obj\Release\netcoreapp2.1\linux-x64\Server.csproj.CoreCompileInputs.cache
+C:\Users\v-kayaaq\source\repos\Server\Server\obj\Release\netcoreapp2.1\linux-x64\Server.AssemblyInfoInputs.cache
+C:\Users\v-kayaaq\source\repos\Server\Server\obj\Release\netcoreapp2.1\linux-x64\Server.AssemblyInfo.cs
+C:\Users\v-kayaaq\source\repos\Server\Server\obj\Release\netcoreapp2.1\linux-x64\Server.dll
+C:\Users\v-kayaaq\source\repos\Server\Server\obj\Release\netcoreapp2.1\linux-x64\Server.pdb
