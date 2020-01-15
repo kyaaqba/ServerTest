@@ -30,8 +30,9 @@ public static void ExecuteServer(string ip)
     // for the socket. Dns.GetHostName 
     // returns the name of the host 
     // running the application. 
-    //IPHostEntry ipHost = Dns.GetHostEntry(Dns.GetHostName());
-    IPAddress ipAddr = IPAddress.Parse(ip);
+    IPHostEntry ipHostInfo = Dns.Resolve(Dns.GetHostName());
+    IPAddress ipAddr = ipHostInfo.AddressList[0];
+    Console.WriteLine(ipAddr);
     IPEndPoint localEndPoint = new IPEndPoint(ipAddr, 11111); 
 
 	// Creation TCP/IP Socket using 
