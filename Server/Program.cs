@@ -32,8 +32,8 @@ public static void ExecuteServer(string ip)
     // running the application. 
     IPHostEntry ipHostInfo = Dns.Resolve(Dns.GetHostName());
     IPAddress ipAddr = ipHostInfo.AddressList[0];
-    Console.WriteLine(ipAddr);
-    IPEndPoint localEndPoint = new IPEndPoint(ipAddr, 11111); 
+    Console.WriteLine(ip);
+    IPEndPoint localEndPoint = new IPEndPoint(ip, 11111); 
 
 	// Creation TCP/IP Socket using 
 	// Socket Class Costructor 
